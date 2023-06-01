@@ -1,0 +1,12 @@
+.modely-container {
+    width: 100%;
+    height: 100vh;
+}
+
+.modely-container img {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
