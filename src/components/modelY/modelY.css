@@ -9,4 +9,18 @@
     background-position: center;
     background-size: cover;
     overflow: hidden;
+    object-fit: cover;
 }
+
+
+.full {
+    opacity: 1;
+  }
+  
+  .middle {
+    opacity: 0.7;
+  }
+  
+  .hidden {
+    opacity: 0;
+  }

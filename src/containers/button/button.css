@@ -1,0 +1,51 @@
+.button-container {
+    margin-bottom: 10px;
+    
+}
+
+.button-container button {
+    width: 260px;
+    height: 40px;
+    border-radius: 5px;
+    animation-delay: 1s;
+    font-size: 14px;
+    font-family: 'Gotham SSm', sans-serif;
+}
+
+.btn {
+    cursor: pointer;
+}
+
+.btn:first-child {
+    margin-right: 10px;
+}
+.btn:last-child{
+    margin-left: 10px;
+}
+
+.hidden {
+    display: none;
+}
+
+.visible {
+    display:inline;
+    visibility: visible;
+}
+
+.home-button {
+    color: #fff;
+    border: 3px solid white;
+    background: transparent;
+}
+
+.modely-button {
+    color: white;
+    background: #171A20CC;
+    border: none;
+}
+
+.modely-button2 {
+    color: black;
+    background: #F4F4F4A6;
+    border: none;
+}

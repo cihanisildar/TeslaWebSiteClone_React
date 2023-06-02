@@ -10,15 +10,3 @@
     position: relative;
 }
 
-
-.full {
-    opacity: 1;
-}
-
-.middle {
-    opacity: 0.5;
-}
-
-.hide {
-    opacity: 0;
-}
